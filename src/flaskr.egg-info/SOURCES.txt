@@ -1,0 +1,11 @@
+setup.py
+src/flaskr/__init__.py
+src/flaskr/flaskr.py
+src/flaskr/script.py
+src/flaskr/test.py
+src/flaskr.egg-info/PKG-INFO
+src/flaskr.egg-info/SOURCES.txt
+src/flaskr.egg-info/dependency_links.txt
+src/flaskr.egg-info/entry_points.txt
+src/flaskr.egg-info/requires.txt
+src/flaskr.egg-info/top_level.txt

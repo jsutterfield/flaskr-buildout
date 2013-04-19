@@ -1,0 +1,4 @@
+
+    [console_scripts]
+    flask-ctl = flaskr.script:runserver
+    
